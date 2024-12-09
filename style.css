@@ -1,0 +1,19 @@
+body,
+button,
+a{
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+
+em{
+    color: green;
+}
+
+.gras{
+    color: initial;
+    font-weight: bold;
+}
+
+span.ma-classe{
+    color: red;
+}
